@@ -71,3 +71,10 @@ for color in colores.values():
 
 for clave in colores.keys():
     print (clave)
+
+print (colores.get("verde"))
+print(colores["verde"])
+print ( colores.keys())
+
+for clave,valor in colores.items():
+    print ("la clave es: ", clave, "\nel valor es: ", valor)
