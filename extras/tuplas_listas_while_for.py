@@ -12,7 +12,7 @@
 #print(t[1:8:])
 #print(t[::])
 #print(t[::-1])
-
+# count
 t = (10,20,30,40,50,60,70,80)
 
 i = 0
@@ -78,3 +78,5 @@ print ( colores.keys())
 
 for clave,valor in colores.items():
     print ("la clave es: ", clave, "\nel valor es: ", valor)
+
+
