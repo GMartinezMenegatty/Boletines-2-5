@@ -27,6 +27,6 @@ else:
             nueva_fila.append(suma)
         resultado.append(tuple(nueva_fila))  
 
-    print("Produto de a × b:")
+    print("Produto de a x b:")
     for fila in resultado:
         print(fila)
